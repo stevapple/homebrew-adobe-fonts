@@ -3,7 +3,6 @@ cask "font-source-sans" do
   sha256 "a4ebbdea20b08ccbd7bf3665a9462454eefdd01d9a6307129d3b3d4672981074"
 
   url "https://github.com/adobe-fonts/source-sans/releases/download/#{version}/OTF-source-sans-#{version}.zip"
-  appcast "https://github.com/adobe-fonts/source-sans/releases.atom"
   name "Source Sans"
   desc "Fonts designed for user interfaces"
   homepage "https://github.com/adobe-fonts/source-sans"
