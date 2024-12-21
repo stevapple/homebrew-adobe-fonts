@@ -1,8 +1,8 @@
 cask "font-source-han-sans" do
-  version "2.003"
-  sha256 "02947fcec1fbb97b3369dc30113c9f07363359aed82788bf38eef17b894bf045"
+  version "2.004"
+  sha256 "6f59118a9adda5a7fe4e9e6bb538309f7e1d3c5411f9a9d32af32a79501b7e4f"
 
-  url "https://github.com/adobe-fonts/source-han-sans/raw/#{version}R/SuperOTC/SourceHanSans.ttc.zip"
+  url "https://github.com/adobe-fonts/source-han-sans/releases/download/#{version}R/SourceHanSans.ttc.zip"
   name "Source Han Sans"
   name "思源黑體"
   name "源ノ角ゴシック"
