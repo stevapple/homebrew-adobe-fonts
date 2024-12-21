@@ -4,9 +4,9 @@ Adobe made a questionable decision to rename their Source family of fonts to inc
 
 ## How do I install these fonts?
 
-`brew install iandol/adobe-fonts/<cask>`
+`brew install stevapple/adobe-fonts/<cask>`
 
-Or `brew tap iandol/adobe-fonts` and then `brew install <cask>`.
+Or `brew tap stevapple/adobe-fonts` and then `brew install <cask>`.
 
 ## Documentation
 
